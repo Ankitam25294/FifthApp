@@ -1,0 +1,16 @@
+.studentform
+{
+    width:500px;
+}
+input[type=text],select
+{
+    width:200px;
+    height:40px;
+    margin-left: 30px;
+    margin-bottom:20px;
+    border-radius: 5px;
+}
+label
+{
+    margin-left: 70px;
+}
